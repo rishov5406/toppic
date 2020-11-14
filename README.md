@@ -6,4 +6,4 @@ Please put proper description after commiting a change and put proper descriptio
 JavaScript and Python is mostly prefered.
 
 
-All rights reseved @rishovsonowal 20202
+All rights reseved @rishovsonowal 2020
