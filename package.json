@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "https://toppick.herokuapp.com/admin",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "postinstall": "npm run build"

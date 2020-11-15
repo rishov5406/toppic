@@ -28,7 +28,7 @@ import os
 SECRET_KEY = '&p@^l-%#!utl72nvnjt&5!+i)2vff$3(7mx38l2t&#1+y=m&!%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['toppick.herokuapp.com', '127.0.0.1']
 
