@@ -1,5 +1,4 @@
 import React from 'react';
-import {Link } from 'react-router-dom';
 
 const navbar = () => (
     
@@ -8,9 +7,9 @@ const navbar = () => (
            <div className="inner">
               <h3 className="masthead-brand">Toppick</h3>
                  <nav className="nav nav-masthead justify-content-center">
-                    <Link className="nav-link active" to="/">Home</Link>
-                    <Link className="nav-link" to="/blog">Blogs</Link>
-                    <Link className="nav-link" to="/about">Write with us</Link>
+                    <a className="nav-link active" href="/">Home</a>
+                    <a className="nav-link" href="/blog">Blogs</a>
+                    <a className="nav-link" href="/about">Write with us</a>
                    </nav>
            </div>
       </header>
